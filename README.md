@@ -30,4 +30,4 @@ npm app.js.
 
 
 
-#NICOLE É CORNA, FEIA, FEDIDA E CHATA#
+
